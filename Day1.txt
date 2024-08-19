@@ -1,0 +1,21 @@
+  
+AWS CLOUD:
+   CLOUD: Cloud computing is the delivery of computing services-include servers,storage,databases,netwroking,software,
+          analytics,and intelligence-over the internet.
+
+SERVICE MODEL:
+   SAAS:Software as a service
+   PAAS:Platform as a service
+   IAAS:Infrastructure as a service
+
+DEPLOYMENT MODELS:
+   PUBLIC: The names says it all.it is accessible to the public.public deployment models in the cloud are perfect for 
+           organizations with growing and fluctuating demands.
+
+   PRIVATE: This is a cloud model only specific users can access the resources provided by a vendor,which may be publi
+            or private.
+
+   HYBRID: This model combine aspects of both public and private clouds by using a combination of both types of  
+           infrastructuer to deliver services to customer or employees.
+
+   
