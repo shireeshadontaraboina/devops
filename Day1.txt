@@ -1,4 +1,4 @@
-  
+DAY1:19/8/2024  
 AWS CLOUD:
    CLOUD: Cloud computing is the delivery of computing services-include servers,storage,databases,netwroking,software,
           analytics,and intelligence-over the internet.
