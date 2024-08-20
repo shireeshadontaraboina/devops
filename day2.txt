@@ -1,0 +1,15 @@
+DAY2:20/8/2024
+
+
+  CLOUD COMPUTING:
+  EC2,instance
+      *service model
+      *deployment model
+      *VIRTUALIZATION: is a technology that lets you create virtual versions of real things like computers or storage
+                       it allow multiple virtual systems to run on one physical machine,making it more flexible
+
+     * HYPERVISER
+     * HOST OS
+                                                                                                                             
+     * Hardware virtualization:Is when a physical computer is divided into multiple virtual machines
+     * para virtualization
